@@ -1,5 +1,5 @@
 body{
-    background-color: #C7DBD2;
+    background-color: #3e6b89;
 }
 #loginbox{
     margin-top:50px;
@@ -17,13 +17,13 @@ body{
     display:none;
 }
 .input-group{
-    color: #576363;
     margin-bottom: 25px;
     border-radius: 3px;
 }.form-group{
     margin-top:10px;
 }
 .donthave{
+    border-top: 1px solid#888;
     padding-top:15px;
     font-size:85%;
 }
@@ -31,24 +31,23 @@ body{
     border: #099;
 }
 .btn-yel{
-    background-color:#85D1AA;
+    background-color: #099;
     border:none;
     border-radius: 0;
 
 }
 #loginform{
-    background-color:white;
+    background-color:#cbf9da;
     padding: 1em;
 }
 .form-horizontal{
     border: 4px #099;
-    padding-right: 10px;
 }
 .form-control{
     border-radius: none;
 }
 .tittle{
-    color: 	#57CADC;
+    color: #122d42;
 }
 i{
     text-align: center;
@@ -56,13 +55,13 @@ i{
 
 }
 .fa-heartbeat{
-    color:#EC74AA;
+    color:#cbf9da;
     font-size: 5em;
 }
 .mainLoginInput{
     height: 40px;
     padding: 0px;
-    font-size: 20px;
+    font-size: 30px;
     margin: 5px 0;
   }
   
@@ -74,7 +73,7 @@ i{
   display: inline-block !important;
   padding-left: 5px;
   padding-top: 2px;
-  color:#576363;
+  color: gray;
   }
   
   .mainLoginInput::-moz-placeholder  { 
@@ -85,7 +84,7 @@ i{
   display: inline-block !important;
   padding-left: 5px;
   padding-top: 2px;
-  color:#716E73;
+  color:black;
   }
   
   .mainLoginInput:-ms-input-placeholder  { 
@@ -96,7 +95,7 @@ i{
   display: inline-block !important;
   padding-left: 5px;
   padding-top: 2px;
-  color:#576363;
+  color:black;
   }
   .fa-user{
     text-align: center;
@@ -110,8 +109,6 @@ i{
       text-align: center;
   }
   .social-login-btn {
-    background-color: #85D1AA;
-    border-color: #85D1AA;
     margin: 5px;
     width: 80%;
     font-size: 120%;

@@ -2,3 +2,7 @@
 *.swp
 .nyc_output/
 node_modules/
+README.md 
+test/
+fontawesome-free-5.1.0-web/
+bootstrap-4.1.1-dist (1)/

@@ -36,6 +36,7 @@ function sendPhotoToStorage(){
 //creo constante para llamar al boton "btn"
 const boton = document.getElementById("btn");
 //pongo algo para que cuando hagan click haga lo siguiente...
+
 boton.addEventListener("click",() => {
     //creo una variable para dejar lo que se introdujo en el textarea
     let comments = document.getElementById ("comment").value;

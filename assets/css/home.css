@@ -530,3 +530,11 @@ input[type=”file”]#nuestroinput {
  width: fit-content;
  text-align: center;
  }*/
+
+h1{
+	color: #57CADC;
+}
+.fa-heartbeat{
+    color:#EC74AA;
+    font-size: 5em;
+}
